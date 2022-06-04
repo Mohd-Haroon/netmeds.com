@@ -1,4 +1,6 @@
 # Netmeds-clone
+![image](https://user-images.githubusercontent.com/99546040/171988915-404a813f-d29c-487f-a636-60551673e017.png)
+
 <p>Masai Unit-3 Construct Week Project Inspired by NykaaMan</p>
 I will be telling about our experience of the project at Masai School during construct week. We were asked to clone the website of Netmeds an online health store. We were a team of 7 members Balu Saikumar, Shubham Ramesh Shewale, Mohd Haroon Qureshi, Bigyan Kumar Sandilya, Priyanshu Kumar, and Vaibhav Panchave.
 It was a very long week and we learn lots of new stuff, techniques during this period. And during testing before submission, it was really worth the efforts cloning the website.
